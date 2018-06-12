@@ -1,4 +1,4 @@
-{	AppName = "环信Demo";
+{
 	"NSDateCategory.text1" = "1分钟内";
 	"NSDateCategory.text10" = "上午hh:mm";
 	"NSDateCategory.text11" = "下午hh:mm";
